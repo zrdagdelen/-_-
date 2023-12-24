@@ -1,0 +1,3 @@
+﻿  6 zadanie.cpp
+C:\Users\ZeyDA\OneDrive\Рабочий стол\cpp++\6 zadanie\6 zadanie\6 zadanie.cpp(6,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  6 zadanie.vcxproj -> C:\Users\ZeyDA\OneDrive\Рабочий стол\cpp++\6 zadanie\x64\Debug\6 zadanie.exe
